@@ -1,4 +1,4 @@
-# Welcome to PowerBOM
+# Welcome to GSD - Get Stuff Done
 
 **A basic task list application, using Vue.js, Node.js and Webpack**
 
