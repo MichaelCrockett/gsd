@@ -2,7 +2,7 @@
 
 **A basic task list application, using Vue.js, Node.js and Webpack**
 
-### Features (current)
+### MVP Features (current)
 
 - Add, edit and delete tasks
   - Click on task name to edit
@@ -12,11 +12,11 @@
 - Filter tasks to show all tasks, active tasks or completed tasks.
 
 
-### Features (planned)
+### Nice-To-Have Features (planned)
 
 - Individual TaskItem component to render a single task and the relevant data
-- Router to make API calls to a database, in order to load a list of tasks 
-- Cool animations once I work out how! 
+- Router to make API calls to a database, in order to load a list of tasks
+- Cool animations once I work out how!
 
 ## Command line statements to run the app
 

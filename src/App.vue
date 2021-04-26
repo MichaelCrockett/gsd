@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="container">
-    <img src="./assets/logo.png" class="logo">
+    <img src="./assets/gsd_logo.png" class="logo">
     <task-list></task-list>
   </div>
 </template>

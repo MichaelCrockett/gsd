@@ -2,7 +2,7 @@
   "name": "mc_powerbom",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "MikeCrockett <mike.crockett@pinsol.com>",
+  "author": "MikeCrockett <mike.crockett76@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
